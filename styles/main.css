@@ -13,8 +13,28 @@ main{
     width: 100vw;
 }
 
-
+.cv-button{
+    border-radius: 20px;
+    border-style: solid;
+    width: 100px;
+    font-weight: 700;
+    margin: 2px;
+    background-color: black ;
+    color: #fff;
+    transition: background-color 0.3s;
+}
+.cv-button:hover{
+    background-color: transparent;
+}
+.button-wrapper{
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    border-radius: 20px;
+    width: 103px;
+    margin-right: 1rem;
+}
 nav{
+    position: fixed;
+    z-index: 2;
     width: 100vw;
     height: 10vh;
     background-color: black;
@@ -22,8 +42,8 @@ nav{
     justify-content: space-between;
     align-items: center;
     -webkit-box-shadow: 0px 7px 13px -9px rgba(66, 68, 90, 1);
--moz-box-shadow: 0px 7px 13px -9px rgba(66, 68, 90, 1);
-box-shadow: 0px 7px 13px -9px rgba(66, 68, 90, 1); 
+    -moz-box-shadow: 0px 7px 13px -9px rgba(66, 68, 90, 1);
+    box-shadow: 0px 7px 13px -9px rgba(66, 68, 90, 1); 
    
 }
 nav *{
@@ -43,7 +63,7 @@ nav *{
 }
 
 .main-container{
-    margin-top: 2rem;
+    margin-top: 4rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -61,6 +81,7 @@ nav *{
     align-items: center;
     height: 200px;
     width: 200px;
+    background-color: #fff;
 
     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
