@@ -1,6 +1,6 @@
 export const openImageFunction = ()=>{
-   var images = document.getElementsByTagName("img");
    var main = document.getElementsByTagName("main")[0];
+   var images = main.getElementsByTagName("img");
    let isOpen = false;
    for (let i = 0;i<images.length;i++) {
       images[i].addEventListener("click",()=>{openImage(images[i])})
