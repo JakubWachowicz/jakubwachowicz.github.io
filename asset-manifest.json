@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/JakubWachowicz/jakubwachowicz.github.io/static/css/main.c10c379d.css",
-    "main.js": "/JakubWachowicz/jakubwachowicz.github.io/static/js/main.8d836587.js",
-    "static/js/453.676face9.chunk.js": "/JakubWachowicz/jakubwachowicz.github.io/static/js/453.676face9.chunk.js",
-    "static/media/cv.pdf": "/JakubWachowicz/jakubwachowicz.github.io/static/media/cv.dcffe09d523972373bc7.pdf",
-    "static/media/brutalist-8971819_1920.jpg": "/JakubWachowicz/jakubwachowicz.github.io/static/media/brutalist-8971819_1920.37cbf8818ffbab3ccca1.jpg",
-    "static/media/challenger.png": "/JakubWachowicz/jakubwachowicz.github.io/static/media/challenger.930bea6a9ae33492a595.png",
-    "static/media/bloom.png": "/JakubWachowicz/jakubwachowicz.github.io/static/media/bloom.48cd4d4a987d6690c021.png",
-    "static/media/reactivities.png": "/JakubWachowicz/jakubwachowicz.github.io/static/media/reactivities.365cf90955650a12bd70.png",
-    "static/media/rest.png": "/JakubWachowicz/jakubwachowicz.github.io/static/media/rest.ac16f830b2db2c45bba5.png",
-    "static/media/mapmaker.png": "/JakubWachowicz/jakubwachowicz.github.io/static/media/mapmaker.6a04c93d8baaf75dc0e0.png",
-    "static/media/LSB+key.png": "/JakubWachowicz/jakubwachowicz.github.io/static/media/LSB+key.c64461cecae310cb11d6.png",
-    "index.html": "/JakubWachowicz/jakubwachowicz.github.io/index.html",
-    "main.c10c379d.css.map": "/JakubWachowicz/jakubwachowicz.github.io/static/css/main.c10c379d.css.map",
-    "main.8d836587.js.map": "/JakubWachowicz/jakubwachowicz.github.io/static/js/main.8d836587.js.map",
-    "453.676face9.chunk.js.map": "/JakubWachowicz/jakubwachowicz.github.io/static/js/453.676face9.chunk.js.map"
+    "main.css": "/JakubWachowicz/static/css/main.c10c379d.css",
+    "main.js": "/JakubWachowicz/static/js/main.daeceed2.js",
+    "static/js/453.676face9.chunk.js": "/JakubWachowicz/static/js/453.676face9.chunk.js",
+    "static/media/cv.pdf": "/JakubWachowicz/static/media/cv.dcffe09d523972373bc7.pdf",
+    "static/media/brutalist-8971819_1920.jpg": "/JakubWachowicz/static/media/brutalist-8971819_1920.37cbf8818ffbab3ccca1.jpg",
+    "static/media/challenger.png": "/JakubWachowicz/static/media/challenger.930bea6a9ae33492a595.png",
+    "static/media/bloom.png": "/JakubWachowicz/static/media/bloom.48cd4d4a987d6690c021.png",
+    "static/media/reactivities.png": "/JakubWachowicz/static/media/reactivities.365cf90955650a12bd70.png",
+    "static/media/rest.png": "/JakubWachowicz/static/media/rest.ac16f830b2db2c45bba5.png",
+    "static/media/mapmaker.png": "/JakubWachowicz/static/media/mapmaker.6a04c93d8baaf75dc0e0.png",
+    "static/media/LSB+key.png": "/JakubWachowicz/static/media/LSB+key.c64461cecae310cb11d6.png",
+    "index.html": "/JakubWachowicz/index.html",
+    "main.c10c379d.css.map": "/JakubWachowicz/static/css/main.c10c379d.css.map",
+    "main.daeceed2.js.map": "/JakubWachowicz/static/js/main.daeceed2.js.map",
+    "453.676face9.chunk.js.map": "/JakubWachowicz/static/js/453.676face9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c10c379d.css",
-    "static/js/main.8d836587.js"
+    "static/js/main.daeceed2.js"
   ]
 }
