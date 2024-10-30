@@ -10,7 +10,6 @@ const Home = () => {
         className="w-full h-full object-cover absolute inset-0"
       />
       <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50">
-
         <div className='text-white text-4xl md:text-6xl font-bold animate__animated animate__fadeInUp'>
           <h1 className="">
             Jakub Wachowcz

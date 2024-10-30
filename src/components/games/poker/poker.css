@@ -1,0 +1,41 @@
+.card {
+    width: 88px; 
+    height: 124px; 
+    background-size: 440px 372px; 
+    
+}
+.spades{
+    background-image: url('.\\poker\\Spades-88x124.png');
+}
+.diamonds{
+    background-image: url('.\\poker\\Diamonds-88x124.png');
+}
+.hearts{
+    background-image: url('.\\poker\\Hearts-88x124.png');
+}
+.clubs{
+    background-image: url('.\\poker\\Clubs-88x124.png');
+}
+
+/* Example classes for different cards */
+.as    { background-position: 0px 0px; }   /* Card at (0, 0) */
+.two   { background-position: -88px 0px; }
+.three { background-position: -176px 0px; }
+.four  { background-position: -264px 0px; }
+.five  { background-position: -352px 0px; } 
+
+.six   { background-position: -0px -124px; }   /* Card at (0, 0) */
+.seven { background-position: -88px -124px; }
+.eight { background-position: -176 -124px; }
+.nine  { background-position: -264px -124px; }
+.ten   { background-position: -352px -124px; }
+
+.jack { background-position: 0px -248px; }   /* Card at (0, 0) */
+.queen { background-position: -88px -248px; }
+.king { background-position: -176x -248px; }
+
+
+.true{
+    transform: translateY(-30px);
+   
+}
