@@ -13,7 +13,7 @@ const Home = () => {
       <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50">
 
         <div className='text-white text-4xl font-bold animate__animated animate__fadeInUp'>
-          <h1 className="md:text-6xl font-myname ">
+          <h1 className=" md:text-6xl font-myname ">
             Jakub Wachowcz
           </h1>
           <span className='text-2xl'>.Net developer </span>

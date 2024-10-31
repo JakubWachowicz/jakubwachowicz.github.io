@@ -5,7 +5,7 @@ import MyTechnologies from './widgets/technologies';
 
 const About = () => {
   return (
-    <div id="about" className="w-full h-screen flex items-center justify-center bg-gray-100 p-8 pt-16 ">
+    <div id="about" className="w-full  flex items-center justify-center bg-gray-100 p-8 pt-16 ">
       <div className="">
         <h2 className="text-3xl md:text-4xl font-bold mb-4">About Me</h2>
         <p className="max-w-2xl text-lg" >
