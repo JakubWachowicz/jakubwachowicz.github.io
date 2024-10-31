@@ -4,10 +4,10 @@ import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import { faGithub, faYoutube } from '@fortawesome/free-brands-svg-icons'
 import cv from '../..\\assets\\cv.pdf'
 
-
+import 'animate.css';
 function ContactIcon() {
     return (
-        <div className='flex gap-4 pt-5 align-bottom '>
+        <div className='flex gap-4 pt-5 align-bottom animate__backInUp'>
 
             <div class="relative">
                 <div class="absolute -inset-2">
